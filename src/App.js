@@ -32,7 +32,7 @@ const handleClick = () => {
         className="video-game-button"
         onClick={handleClick}
       >
-        {gameRunning ? "Pause" : "Play"}
+        {gameRunning ? "bitir" : "başla"}
       </button>
     </div>
   );
